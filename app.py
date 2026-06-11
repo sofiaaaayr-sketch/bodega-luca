@@ -12,7 +12,7 @@ st.title("📦 Sistema de Inventario - Bodega Luca")
 
 menu = st.sidebar.selectbox(
     "Seleccione una opción",
-    ["Ver Inventario", "Registrar Venta", "Historial de Ventas"]
+    ["Ver Inventario", "Buscar Producto", "Registrar Venta", "Historial de Ventas"]
 )
 
 # INVENTARIO
